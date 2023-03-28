@@ -314,10 +314,6 @@ li a:hover {
     top: 0;
 }
 
-.tableau{
-    margin-left: 12%;
-}
-
 footer{
     height: 10%;
     width: 100%;
@@ -341,4 +337,18 @@ footer{
     justify-content: center;
     text-align: center;
     margin-bottom: 5%;
+}
+
+.fichesituation{
+     align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.titrefiche{
+    display: flex;
+    font-size: 30px;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
 }
