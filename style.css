@@ -254,7 +254,7 @@ li a:hover {
     font-weight:bold;
 }
 
-.competences {
+.competencesprogrammation {
     height: 350px;
     align-items: center;
     text-align: center;
@@ -263,15 +263,10 @@ li a:hover {
     color: #ffffff;
     clip-path: polygon(5%);
     margin-top: 8%;
-    -webkit-transform: skewY(2deg);
-    -moz-transform: skewY(2deg);
-    -ms-transform: skewY(2deg);
-    -o-transform: skewY(2deg);
-    transform: skewY(2deg);
     margin-top: 15%;
 }
 
-.competenceslog {
+.competenceslogiciel {
     height: 350px;
     align-items: center;
     text-align: center;
@@ -280,11 +275,6 @@ li a:hover {
     color: #ffffff;
     clip-path: polygon(5%);
     margin-top: 0%;
-    -webkit-transform: skewY(2deg);
-    -moz-transform: skewY(2deg);
-    -ms-transform: skewY(2deg);
-    -o-transform: skewY(2deg);
-    transform: skewY(2deg);
     margin-top: 12%;
     margin-bottom: 5%;
 }
@@ -300,17 +290,17 @@ li a:hover {
     margin-left: 10%;
 }
 
-.comppicture {
+.compimageprog {
     width: 150px;
     height: 150px;
 }
 
-.comppicturelog {
+.compimagelog {
     width: 150px;
     height: 150px;
 }
 
-#titrecompetences {
+#titrecompepences {
     padding: 25px;
     top: 0;
 }
