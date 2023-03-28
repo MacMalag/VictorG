@@ -139,6 +139,33 @@ li a:hover {
     color: aliceblue;
 }
 
+.bouton2{
+    width: 200px;
+    height: 60px;
+    background-color: rgba(0, 0, 0);
+    border-radius: 30px;
+    color: rgb(37, 58, 248);
+    overflow: hidden;
+    -webkit-transition:all 0.2s ease-in;
+    -moz-transition:all 0.2s ease-in;
+    -ms-transition:all 0.2s ease-in;
+    -o-transition:all 0.2s ease-in;
+    transition:all 0.2s ease-in;
+    }
+
+.bouton2:hover{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(59, 56, 204);
+    border-radius: 30px;
+    color: aliceblue;
+}
+
+.stluc{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
 .imageCV {
     background-color: black;
     border-radius: 20px;
