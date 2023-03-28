@@ -342,16 +342,3 @@ footer{
     margin-bottom: 5%;
 }
 
-.fichesituation{
-    display: flex;
-    margin-top 10%;
-}
-
-.titrefiche{
-    display: flex;
-    font-size: 30px;
-    color: aliceblue;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: 5%;
-}
