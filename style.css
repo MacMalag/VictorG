@@ -146,6 +146,7 @@ li a:hover {
     border-radius: 20px;
     color: rgb(37, 58, 248);
     overflow: hidden;
+    font-size: 20px;
     -webkit-transition:all 0.2s ease-in;
     -moz-transition:all 0.2s ease-in;
     -ms-transition:all 0.2s ease-in;
