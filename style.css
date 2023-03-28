@@ -232,6 +232,7 @@ li a:hover {
     background-color: rgb(37, 58, 248);
     box-shadow: black;
     align-self: right;
+    color: white;
 }
 
 .intro{
