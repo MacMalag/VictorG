@@ -296,3 +296,19 @@ footer{
     display: absolute;
     font-size: 20px;
 }
+
+.titretableau{
+    display: flex;
+    font-size: 30px;
+    color: aliceblue;
+    margin-top: 5%;
+    margin-left: 40%;
+    font-weight: bold;
+}
+
+.tableaucompetences{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 5%;
+}
