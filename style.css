@@ -334,3 +334,68 @@ footer{
     margin-bottom: 5%;
 }
 
+.veille{
+    padding: auto;
+    display: flex;
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+.blockchain{
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px 150px;
+    gap: 10px 2em;
+
+}
+
+.blockchain:first-child {
+    align-self:auto;
+}
+
+.boutonarticle1{
+    background-image: url(/images/bc1.png);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+.boutonarticle2{
+    background-image: url(/images/bc2.png);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+.boutonarticle3{
+    background-image: url(/images/IA1.png);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+.boutonarticle4{
+    background-image: url(/images/IA2.png);
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+.article{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px black;
+    height: 130;
+    width: 150;
+    text-align: center;
+}
+
+.nomarticle{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
