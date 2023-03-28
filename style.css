@@ -287,3 +287,12 @@ li a:hover {
 .tableau{
     margin-left: 12%;
 }
+
+footer{
+    height: 10%;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    display: absolute;
+    font-size: 20px;
+}
