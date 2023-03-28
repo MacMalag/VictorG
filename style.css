@@ -344,7 +344,7 @@ footer{
     justify-content: center;
     text-align: center;
     display: flex;
-    margin-top 5%;
+    margin-top 10%;
 }
 
 .titrefiche{
@@ -353,4 +353,5 @@ footer{
     color: aliceblue;
     font-weight: bold;
     text-align: center;
+    margin-bottom: 5%;
 }
