@@ -222,3 +222,68 @@ li a:hover {
     font-family: 'Josefin', sans-serif;
     font-weight:bold;
 }
+
+.competences {
+    height: 350px;
+    align-items: center;
+    text-align: center;
+    background-color: #007bff;
+    box-shadow: 0px 0px 10px #007bff;
+    color: #ffffff;
+    clip-path: polygon(5%);
+    margin-top: 8%;
+    -webkit-transform: skewY(2deg);
+    -moz-transform: skewY(2deg);
+    -ms-transform: skewY(2deg);
+    -o-transform: skewY(2deg);
+    transform: skewY(2deg);
+    margin-top: 15%;
+}
+
+.competenceslog {
+    height: 350px;
+    align-items: center;
+    text-align: center;
+    background-color: #1e1e1e;
+    box-shadow: 0px 0px 10px #1e1e1e;
+    color: #ffffff;
+    clip-path: polygon(5%);
+    margin-top: 0%;
+    -webkit-transform: skewY(2deg);
+    -moz-transform: skewY(2deg);
+    -ms-transform: skewY(2deg);
+    -o-transform: skewY(2deg);
+    transform: skewY(2deg);
+    margin-top: 12%;
+    margin-bottom: 5%;
+}
+
+.mescompetences {
+    display: inline;
+    list-style: none;   
+}
+
+.imagecompetences {
+    display: inline;
+    width: 50px;
+    margin-left: 10%;
+}
+
+.comppicture {
+    width: 150px;
+    height: 150px;
+}
+
+.comppicturelog {
+    width: 150px;
+    height: 150px;
+}
+
+#titrecompetences {
+    padding: 25px;
+    top: 0;
+}
+
+.tableau{
+    margin-left: 12%;
+}
