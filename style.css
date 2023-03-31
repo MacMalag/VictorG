@@ -347,7 +347,6 @@ footer{
     display: grid;
     grid-template-columns: 150px 150px 150px 150px 150px;
     gap: 10px 2em;
-
 }
 
 .blockchain:first-child {
@@ -397,5 +396,7 @@ footer{
 .nomarticle{
     margin-bottom: 5px;
     margin-top: 5px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
