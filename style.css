@@ -339,8 +339,6 @@ footer{
     display: flex;
     margin-top:50px;
     margin-bottom:50px;
-    margin-left:40%;
-    margin-right:30%;
 }
 
 .blockchain{
@@ -370,7 +368,7 @@ footer{
 }
 
 .boutonarticle3{
-    background-image: url(/VictorG/IA1.png);
+    background-image: url(/VictorG/ia1.png);
     height: 120px;
     width: 160px;
     border-radius: 20px;
@@ -378,7 +376,7 @@ footer{
 }
 
 .boutonarticle4{
-    background-image: url(/VictorG/IA2.png);
+    background-image: url(/VictorG/ia2.png);
     height: 120px;
     width: 160px;
     border-radius: 20px;
@@ -392,7 +390,6 @@ footer{
     width: 150;
     text-align: center;
     background-color: #1e1e1e;
-    margin: 30px 30px 30px 30px;
 }
 
 .nomarticle{
