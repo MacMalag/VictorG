@@ -393,6 +393,7 @@ footer{
     height: 130;
     width: 150;
     text-align: center;
+    background-color: #1e1e1e; 
 }
 
 .nomarticle{
@@ -400,5 +401,6 @@ footer{
     margin-top: 5px;
     color: white;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
 }
 
