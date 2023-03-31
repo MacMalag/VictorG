@@ -355,32 +355,32 @@ footer{
 
 .boutonarticle1{
     background-image: url(/VictorG/bc1.png);
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 160px;
     border-radius: 20px;
     margin-bottom: 5px;
 }
 
 .boutonarticle2{
     background-image: url(/VictorG/bc2.png);
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 160px;
     border-radius: 20px;
     margin-bottom: 5px;
 }
 
 .boutonarticle3{
     background-image: url(/VictorG/IA1.png);
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 160px;
     border-radius: 20px;
     margin-bottom: 5px;
 }
 
 .boutonarticle4{
     background-image: url(/VictorG/IA2.png);
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 160px;
     border-radius: 20px;
     margin-bottom: 5px;
 }
