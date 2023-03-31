@@ -347,6 +347,8 @@ footer{
     display: grid;
     grid-template-columns: 150px 150px 150px 150px 150px;
     gap: 10px 2em;
+    width: 100%;
+    align-item: center;
 }
 
 .blockchain:first-child {
